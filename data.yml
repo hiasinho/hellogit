@@ -5,3 +5,5 @@ site:
   sections:
     start: 
     title: Start
+    terms:
+      title: Terms
