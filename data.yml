@@ -1,6 +1,7 @@
 site:
   title: Hello Git
   sub: Introduction to git merges
+  somestuff: Hello
   sections:
     start: 
     title: Start
