@@ -4,6 +4,6 @@ site:
   somestuff: Hello
   sections:
     start: 
-    title: Start
+      title: Start
     terms:
       title: Terms
