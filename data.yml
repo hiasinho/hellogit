@@ -5,5 +5,7 @@ site:
   sections:
     start: 
       title: Start
+    next:
+      title: Next
     terms:
       title: Terms
