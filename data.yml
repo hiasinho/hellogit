@@ -10,7 +10,5 @@ site:
       title: Terms
     rules:
       title: Rules
-    foo:
-      title: Bar
     nothing:
       title: Else matters
