@@ -3,9 +3,13 @@ site:
   sub: Introduction to git merges
   somestuff: Hello
   sections:
-    start: 
+    start:
       title: Start
     next:
       title: Next
     terms:
       title: Terms
+    rules:
+      title: Rules
+    other:
+      title: Other
