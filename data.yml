@@ -13,3 +13,5 @@ site:
       title: Impressum
     rules:
       title: Rules
+    other:
+      title: Other
